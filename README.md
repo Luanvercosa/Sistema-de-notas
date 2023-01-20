@@ -11,7 +11,7 @@
   <li>Listar alunos com a maior nota;</li>
   <li>Remover aluno.</li>
 </ul>
-  <p>Esse sistema possui diversos métodos e é feito com java puro!</p>
+  <p>:coffee: Esse sistema possui diversos métodos e é feito com java puro! :coffee:</p>
 <p> :heart: Desde já agradeço sua contribuição e aceito sugestões para melhora-lo! :heart:</p>
   
   
