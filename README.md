@@ -11,13 +11,8 @@
   <li>Listar alunos com a maior nota;</li>
   <li>Remover aluno.</li>
 </ul>
+  <p>Esse sistema possui diversos métodos e é feito com java puro!</p>
+  <p>Desde já agradeço sua contribuição e aceito sugestões para melhora-lo!</p>
   
   
-  
-  
-  
-  
-  
-  Esse sistema possui diversos métodos e é feito com java puro!
-  Desde já agradeço sua contribuição e aceito sugestões para melhora-lo!
   
