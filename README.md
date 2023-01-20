@@ -1,6 +1,6 @@
 # Sistema-de-notas
 
-Contruir um sistema de notas que inclui:
+Contruir um sistema de notas que inclui: /n
   °Adicionar Aluno;
   °Adicionar nota do Aluno;
   °Consultar a nota do aluno;
