@@ -1,7 +1,7 @@
 # Sistema-de-notas
 
 
-<h1>Contruir um sistema de notas que inclui: <h1/>
+<h1>Contruir um sistema de notas que inclui: </h1>
 
   °Adicionar Aluno;
   °Adicionar nota do Aluno;
