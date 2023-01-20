@@ -3,12 +3,20 @@
 
 <h1>Contruir um sistema de notas que inclui: </h1>
 
-  °Adicionar Aluno;
-  °Adicionar nota do Aluno;
-  °Consultar a nota do aluno;
-  °Calcular a média do aluno;
-  °Listar alunos com a maior nota;
-  °Remover aluno.
+ <ul>
+  <li>Adicionar Aluno;</li>
+  <li>Adicionar nota do Aluno;</li>
+  <li>Consultar a nota do aluno;</li>
+  <li>Calcular a média do aluno;</li>
+  <li>Listar alunos com a maior nota;</li>
+  <li>Remover aluno.</li>
+</ul>
+  
+  
+  
+  
+  
+  
   
   Esse sistema possui diversos métodos e é feito com java puro!
   Desde já agradeço sua contribuição e aceito sugestões para melhora-lo!
