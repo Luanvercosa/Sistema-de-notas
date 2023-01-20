@@ -38,13 +38,13 @@ public class Boletim {
                     System.out.println("Ok! 1°  semestre");
                     System.out.println("Adicione a primeira nota: ");
                     nota1 = entrada.nextDouble();
-                    nota1Entrada = false;
+                    nota1Entrada = true;
                     break;
                 case "2":
                     System.out.println("Ok! 2° semestre");
                     System.out.println("Adicione a segunda  nota: ");
                     nota2 = entrada.nextDouble();
-                    nota2Entrada = false;
+                    nota2Entrada = true;
                     break;
                 case "3":
                     exibirMenu = false;
