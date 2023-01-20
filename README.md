@@ -1,4 +1,4 @@
-# Sistema-de-notas
+# Sistema-de-notas 
 
 
 <h1>Contruir um sistema de notas que inclui: </h1>
@@ -12,7 +12,7 @@
   <li>Remover aluno.</li>
 </ul>
   <p>Esse sistema possui diversos métodos e é feito com java puro!</p>
-  <p>Desde já agradeço sua contribuição e aceito sugestões para melhora-lo!</p>
+ :heart: <p>Desde já agradeço sua contribuição e aceito sugestões para melhora-lo!</p> :heart:
   
   
   
