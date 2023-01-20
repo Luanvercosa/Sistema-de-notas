@@ -12,7 +12,7 @@
   <li>Remover aluno.</li>
 </ul>
   <p>Esse sistema possui diversos métodos e é feito com java puro!</p>
-<p> :heart:Desde já agradeço sua contribuição e aceito sugestões para melhora-lo! :heart:</p>
+<p> :heart: Desde já agradeço sua contribuição e aceito sugestões para melhora-lo! :heart:</p>
   
   
   
